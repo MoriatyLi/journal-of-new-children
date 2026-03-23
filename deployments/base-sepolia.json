@@ -1,0 +1,19 @@
+{
+  "network": "base-sepolia",
+  "chainId": 84532,
+  "deployer": "0xe153fb903938f558C5bb67dc0AAD784614f93249",
+  "deployedAt": "2026-03-23T07:35:27.603Z",
+  "startBlock": 39241510,
+  "addresses": {
+    "journal": "0x04A7cfeF1b0a1da3bF9868cC5678aB6DE0029D4e",
+    "submission": "0x62ec64aC73a5113D43F2b41b8A3E4f9Bf3a3D82B",
+    "review": "0x1CdC14d62ED4290Ce8A0aA4734719056A21576e0",
+    "reputation": "0x34C5F3D4185e61477181FA07204E17b2Bcc60cc3"
+  },
+  "blocks": {
+    "journal": 39241510,
+    "submission": 39241516,
+    "review": 39241518,
+    "reputation": 39241513
+  }
+}
